@@ -1,0 +1,342 @@
+{
+  "extName": {
+    "message": "狗蛋下载管理器",
+    "description": "插件名称"
+  },
+  "extDesc": {
+    "message": "方便管理下载的文件",
+    "description": "插件描述"
+  },
+  "settingsTitle": {
+    "message": "设置",
+    "description": "个人设置"
+  },
+  "aboutTitle": {
+    "message": "关于",
+    "description": "关于插件的一些额外的信息"
+  },
+  "second": {
+    "message": "剩余{}秒",
+    "description": "剩余时间显示"
+  },
+  "minute": {
+    "message": "剩余{}分钟",
+    "description": "剩余时间显示"
+  },
+  "hour": {
+    "message": "剩余{}小时",
+    "description": "剩余时间显示"
+  },
+  "day": {
+    "message": "剩余{}天",
+    "description": "剩余时间显示"
+  },
+  "closeTooltip": {
+    "message": "停止显示文字提示框",
+    "description": "在下载管理页面上鼠标移动到按钮上时，停止显示文字提示框"
+  },
+  "newDownload": {
+    "message": "新建下载",
+    "description": "新建下载文件"
+  },
+  "newDownloadPlaceholder": {
+    "message": "请输入下载链接! Enter键下载文件",
+    "description": "请输入下载链接"
+  },
+  "clearAll": {
+    "message": "清空列表",
+    "description": "清除按钮下拉菜单"
+  },
+  "deleteAll": {
+    "message": "从磁盘删除所有",
+    "description": "清除按钮下拉菜单"
+  },
+  "clearFailed": {
+    "message": "清除下载失败",
+    "description": "清除按钮下拉菜单"
+  },
+  "clearAbsent": {
+    "message": "清除文件不存在",
+    "description": "清除按钮下拉菜单"
+  },
+  "openDownloadFolder": {
+    "message": "打开下载文件夹",
+    "description": "在资源管理器中打开下载文件夹"
+  },
+  "openSettings": {
+    "message": "插件设置",
+    "description": "在新标签页打开插件设置"
+  },
+  "openHome": {
+    "message": "打开下载页",
+    "description": "在新标签页打开浏览器默认下载页"
+  },
+  "openFileInFolder": {
+    "message": "打开文件夹",
+    "description": "在文件夹中打开文件"
+  },
+  "openFile": {
+    "message": "打开文件",
+    "description": "打开文件"
+  },
+  "pause": {
+    "message": "暂停",
+    "description": "暂停下载"
+  },
+  "resume": {
+    "message": "恢复下载",
+    "description": "恢复下载处在暂停中的文件"
+  },
+  "delete": {
+    "message": "从磁盘删除",
+    "description": "从磁盘中删除文件"
+  },
+  "retry": {
+    "message": "重新下载",
+    "description": "重新下载"
+  },
+  "dangerDescription": {
+    "message": "该文件可能会损害您的计算机",
+    "description": "该文件可能会损害您的计算机"
+  },
+  "cancel": {
+    "message": "取消",
+    "description": "取消下载危险文件"
+  },
+  "reserve": {
+    "message": "保留",
+    "description": "保留危险文件"
+  },
+  "erase": {
+    "message": "从列表移除",
+    "description": "取消下载或在列表清除文件"
+  },
+  "copied": {
+    "message": "已复制",
+    "description": "已经复制到剪切板"
+  },
+  "prefixMenus": {
+    "message": "下载该",
+    "description": "上下文下载菜单浅前缀显示"
+  },
+  "link": {
+    "message": "链接",
+    "description": "上下文下载菜单显示"
+  },
+  "image": {
+    "message": "图片",
+    "description": "上下文下载菜单显示"
+  },
+  "audio": {
+    "message": "音频",
+    "description": "上下文下载菜单显示"
+  },
+  "video": {
+    "message": "视频",
+    "description": "上下文下载菜单显示"
+  },
+  "deleteNotification": {
+    "message": "删除通知",
+    "description": "删除通知按钮"
+  },
+  "downloadCompletedNotification": {
+    "message": "下载完成",
+    "description": "下载通知"
+  },
+  "downloadStartedNotification": {
+    "message": "下载开始",
+    "description": "下载通知"
+  },
+  "downloadWarnNotification": {
+    "message": "下载警告",
+    "description": "下载通知"
+  },
+  "openFolderNotification": {
+    "message": "打开文件夹",
+    "description": "下载完成通知打开文件夹按钮"
+  },
+  "downloadSetting": {
+    "message": "下载",
+    "description": "插件设置说明"
+  },
+  "leftClickFileSetting": {
+    "message": "鼠标左键点击文件名时打开文件",
+    "description": "插件设置说明"
+  },
+  "rightClickFileSetting": {
+    "message": "鼠标右键点击文件名时复制到剪切板",
+    "description": "插件设置说明"
+  },
+  "leftClickUrlSetting": {
+    "message": "鼠标左键点击下载链接时可在新界面打开",
+    "description": "插件设置说明"
+  },
+  "rightClickUrlSetting": {
+    "message": "鼠标右键点击下载链接时复制到剪切板",
+    "description": "插件设置说明"
+  },
+  "showTooltipSetting": {
+    "message": "鼠标移动到按钮上时显示提示信息",
+    "description": "插件设置说明"
+  },
+  "enableAnimation": {
+    "message": "开启文件移入移出动画",
+    "description": "插件设置说明"
+  },
+  "contextMenus": {
+    "message": "上下文菜单",
+    "description": "插件设置说明"
+  },
+  "downloadContextMenusSetting": {
+    "message": "下载菜单",
+    "description": "插件设置说明"
+  },
+  "downloadContextMenusDescSetting": {
+    "message": "支持的文件类型: ",
+    "description": "插件设置细节说明"
+  },
+  "notificationSetting": {
+    "message": "通知",
+    "description": "插件设置说明"
+  },
+  "downloadNotificationSetting": {
+    "message": "下载通知",
+    "description": "插件设置说明"
+  },
+  "downloadNotificationSetting1": {
+    "message": "开始",
+    "description": "插件设置说明"
+  },
+  "downloadNotificationSetting2": {
+    "message": "完成",
+    "description": "插件设置说明"
+  },
+  "downloadNotificationSetting3": {
+    "message": "警告",
+    "description": "插件设置说明"
+  },
+  "downloadNotificationReservedTimeSetting": {
+    "message": "下载通知保留时间（秒）",
+    "description": "插件设置说明"
+  },
+  "downloadToneSetting": {
+    "message": "下载提示音",
+    "description": "插件设置说明"
+  },
+  "downloadNotificationRemainVisibleSetting": {
+    "message": "下载通知保持可见",
+    "description": "插件设置说明"
+  },
+  "downloadNotificationRemainVisibleDescSetting": {
+    "message": "在用户激活或关闭通知之前，通知在屏幕上保持可见。Chrome 50 版本之后可用",
+    "description": "插件设置说明"
+  },
+  "shortcutSetting": {
+    "message": "快捷键",
+    "description": "插件设置说明"
+  },
+  "openPopupSetting": {
+    "message": "激活该扩展程序",
+    "description": "插件设置说明"
+  },
+  "openPopupDetailsSetting": {
+    "message": "请点击",
+    "description": "插件设置细节说明"
+  },
+  "chromePluginShortcutDescSetting": {
+    "message": "快捷键设置",
+    "description": "插件设置说明"
+  },
+  "syncSetting": {
+    "message": "同步",
+    "description": "插件设置说明"
+  },
+  "pluginSyncSetting": {
+    "message": "同步插件设置",
+    "description": "插件设置说明"
+  },
+  "pluginSyncDetailsSetting": {
+    "message": "已登录谷歌账号时，可在不同的基于谷歌内核的浏览器之间同步插件设置",
+    "description": "插件设置细节说明"
+  },
+  "notSyncSetting": {
+    "message": "该设置不会被同步",
+    "description": "插件设置说明"
+  },
+  "themeTitle": {
+    "message": "主题",
+    "description": "主题标签页说明"
+  },
+  "themeAdaptation": {
+    "message": "主题自适应",
+    "description": "主题标签页说明"
+  },
+  "themeAdaptationDescription": {
+    "message": "根据系统的颜色模式自适应显示亮色和暗黑主题，包含图标和下载面板。",
+    "description": "主题标签页说明"
+  },
+  "themeAdaptationOption1": {
+    "message": "自动",
+    "description": "主题标签页说明"
+  },
+  "themeAdaptationOption2": {
+    "message": "亮色",
+    "description": "主题标签页说明"
+  },
+  "themeAdaptationOption3": {
+    "message": "暗黑",
+    "description": "主题标签页说明"
+  },
+  "iconTitle": {
+    "message": "图标",
+    "description": "主题标签页说明"
+  },
+  "iconColorSetting": {
+    "message": "自定义图标颜色",
+    "description": "主题标签页说明"
+  },
+  "iconDownloadingColorSetting": {
+    "message": "自定义图标下载动画颜色",
+    "description": "主题标签页说明"
+  },
+  "downloadPanelTitle": {
+    "message": "下载面板",
+    "description": "主题标签页说明"
+  },
+  "pageSize": {
+    "message": "页面大小（宽度、高度）",
+    "description": "主题标签页说明"
+  },
+  "downloadPanelThemeCustomDescription": {
+    "message": "自定义主题，敬请期待！",
+    "description": "主题标签页说明"
+  },
+  "el_colorpicker_confirm": {
+    "message": "确定",
+    "description": "主题标签页说明 - Element-UI 颜色选择器"
+  },
+  "el_colorpicker_clear": {
+    "message": "清空",
+    "description": "主题标签页说明 - Element-UI 颜色选择器"
+  },
+  "el_popconfirm_confirmButtonText": {
+    "message": "确定",
+    "description": "清空列表 - Element-UI PopConfirm"
+  },
+  "el_popconfirm_cancelButtonText": {
+    "message": "取消",
+    "description": "清空列表 - Element-UI PopConfirm"
+  },
+  "starAbout1": {
+    "message": "觉得不错，去",
+    "description": "关于标签页说明"
+  },
+  "pluginShopAbout": {
+    "message": "应用商店",
+    "description": "关于标签页说明"
+  },
+  "starAbout2": {
+    "message": "评个分吧",
+    "description": "关于标签页说明"
+  }
+}

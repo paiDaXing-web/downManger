@@ -1,0 +1,342 @@
+{
+  "extName": {
+    "message": "Download Manager",
+    "description": "Название расширения"
+  },
+  "extDesc": {
+    "message": "Легко управлять загруженными файлами",
+    "description": "Описание расширения"
+  },
+  "settingsTitle": {
+    "message": "Настройки",
+    "description": "Персональные настройки"
+  },
+  "aboutTitle": {
+    "message": "О расширении",
+    "description": "Дополнительная информация о расширении"
+  },
+  "second": {
+    "message": "Осталось {} сек",
+    "description": "Отображение оставшегося времени"
+  },
+  "minute": {
+    "message": "Осталось {} мин",
+    "description": "Отображение оставшегося времени"
+  },
+  "hour": {
+    "message": "Осталось {} ч",
+    "description": "Отображение оставшегося времени"
+  },
+  "day": {
+    "message": "Осталось {} дн",
+    "description": "Отображение оставшегося времени"
+  },
+  "closeTooltip": {
+    "message": "Не показывать всплывающие подсказки",
+    "description": "При наведении курсора мыши на кнопку на странице управления загрузкой окно текстового сообщения не будет отображаться"
+  },
+  "newDownload": {
+    "message": "Новая загрузка",
+    "description": "Новый файл для скачивания"
+  },
+  "newDownloadPlaceholder": {
+    "message": "Пожалуйста, введите ссылку для загрузки! Нажмите Enter, чтобы скачать файл",
+    "description": "Пожалуйста, введите ссылку для скачивания"
+  },
+  "clearAll": {
+    "message": "Очистить список",
+    "description": "Кнопка «Очистить» раскрывающегося меню"
+  },
+  "deleteAll": {
+    "message": "Удалить все с диска",
+    "description": "Кнопка «Очистить» раскрывающегося меню"
+  },
+  "clearFailed": {
+    "message": "Не удалось очистить загрузку",
+    "description": "Кнопка «Очистить» раскрывающегося меню"
+  },
+  "clearAbsent": {
+    "message": "Очистить файл не существует",
+    "description": "Кнопка «Очистить» раскрывающегося меню"
+  },
+  "openDownloadFolder": {
+    "message": "Открыть папку загрузкок",
+    "description": "Откройте папку загрузкок в проводнике"
+  },
+  "openSettings": {
+    "message": "Настройки",
+    "description": "Открыть настройки в новой вкладке"
+  },
+  "openHome": {
+    "message": "Открыть страницу загрузки",
+    "description": "Откройте в новой вкладке страницу загрузки браузера по умолчанию."
+  },
+  "openFileInFolder": {
+    "message": "Открыть папку",
+    "description": "Открыть файл в папке"
+  },
+  "openFile": {
+    "message": "открыть файл",
+    "description": "открыть файл"
+  },
+  "pause": {
+    "message": "Пауза",
+    "description": "Приостановить загрузку"
+  },
+  "resume": {
+    "message": "Возобновить",
+    "description": "Возобновить загрузку"
+  },
+  "delete": {
+    "message": "Удалить с диска",
+    "description": "Удалить файлы с диска"
+  },
+  "retry": {
+    "message": "Повторить",
+    "description": "Загрузите снова"
+  },
+  "dangerDescription": {
+    "message": "Файл может нанести вред вашему компьютеру",
+    "description": "Файл может нанести вред вашему компьютеру"
+  },
+  "cancel": {
+    "message": "Отменить",
+    "description": "Отменить загрузку опасного файла"
+  },
+  "reserve": {
+    "message": "Продолжить",
+    "description": "Продолжить загрузку опасного файла"
+  },
+  "erase": {
+    "message": "Убрать из списка",
+    "description": "Отменить загрузку или убрать файл из списка"
+  },
+  "copied": {
+    "message": "Скопировано",
+    "description": "Скопировано в буфер обмена"
+  },
+  "prefixMenus": {
+    "message": "Скачать",
+    "description": "Контекстное меню загрузки отображает мелкий префикс"
+  },
+  "link": {
+    "message": "ссылку",
+    "description": "контекстное меню загрузки"
+  },
+  "image": {
+    "message": "изображение",
+    "description": "Загрузка меню в контекст"
+  },
+  "audio": {
+    "message": "аудио",
+    "description": "Загрузка меню в контекст"
+  },
+  "video": {
+    "message": "видео",
+    "description": "Загрузка меню в контекст"
+  },
+  "deleteNotification": {
+    "message": "Удалить уведомление",
+    "description": "Кнопка удаления уведомления"
+  },
+  "downloadCompletedNotification": {
+    "message": "Загрузка завершена",
+    "description": "Загрузка завершена"
+  },
+  "downloadStartedNotification": {
+    "message": "Начало загрузки",
+    "description": "Скачать уведомление"
+  },
+  "downloadWarnNotification": {
+    "message": "Скачать предупреждение",
+    "description": "Скачать уведомление"
+  },
+  "openFolderNotification": {
+    "message": "Открыть в папке",
+    "description": "Загрузка завершена. Открыть в папке"
+  },
+  "downloadSetting": {
+    "message": "Загрузки",
+    "description": "Инструкция к плагину"
+  },
+  "leftClickFileSetting": {
+    "message": "Нажатие на имя файла открывает его",
+    "description": "Инструкция к плагину"
+  },
+  "rightClickFileSetting": {
+    "message": "Нажатие правой кнопкой на имя файла копирует его в буфер обмена",
+    "description": "Инструкция к плагину"
+  },
+  "leftClickUrlSetting": {
+    "message": "Открывать ссылку при нажатии на неё",
+    "description": "Инструкция к плагину"
+  },
+  "rightClickUrlSetting": {
+    "message": "Нажатие правой кнопкой на ссылку копирует её в буфер обмена",
+    "description": "Инструкция к плагину"
+  },
+  "showTooltipSetting": {
+    "message": "Показывать всплывающие подсказки при наведении",
+    "description": "Инструкция к плагину"
+  },
+  "enableAnimation": {
+    "message": "Анимация открытия и выхода открытого файла",
+    "description": "Инструкция к плагину"
+  },
+  "contextMenus": {
+    "message": "Контекстное меню",
+    "description": "Инструкция к плагину"
+  },
+  "downloadContextMenusSetting": {
+    "message": "Меню загрузки",
+    "description": "Инструкция к плагину"
+  },
+  "downloadContextMenusDescSetting": {
+    "message": "Поддерживаемые типы файлов: ",
+    "description": "Детали плагина говорят сами за себя"
+  },
+  "notificationSetting": {
+    "message": "Уведомления",
+    "description": "Инструкция к плагину"
+  },
+  "downloadNotificationSetting": {
+    "message": "Загрузка",
+    "description": "Инструкция к плагину"
+  },
+  "downloadNotificationSetting1": {
+    "message": "started",
+    "description": "Инструкция к плагину"
+  },
+  "downloadNotificationSetting2": {
+    "message": "completed",
+    "description": "Инструкция к плагину"
+  },
+  "downloadNotificationSetting3": {
+    "message": "warning",
+    "description": "Инструкция к плагину"
+  },
+  "downloadNotificationReservedTimeSetting": {
+    "message": "Время хранения уведомлений о загрузке (в секундах)",
+    "description": "Инструкция к плагину"
+  },
+  "downloadToneSetting": {
+    "message": "Скачать напоминание",
+    "description": "Инструкция к плагину"
+  },
+  "downloadNotificationRemainVisibleSetting": {
+    "message": "Уведомления о загрузке остаются видимыми",
+    "description": "Инструкция к плагину"
+  },
+  "downloadNotificationRemainVisibleDescSetting": {
+    "message": "Уведомление остается видимым на экране, пока пользователь не активирует или не деактивирует уведомление.Доступно после Chrome 50",
+    "description": "Инструкция к плагину"
+  },
+  "shortcutSetting": {
+    "message": "Быстрая клавиша",
+    "description": "Инструкция к плагину"
+  },
+  "openPopupSetting": {
+    "message": "Показать окно расширения",
+    "description": "Инструкция к плагину"
+  },
+  "openPopupDetailsSetting": {
+    "message": "Перейдите в",
+    "description": "Детали плагина говорят сами за себя"
+  },
+  "chromePluginShortcutDescSetting": {
+    "message": "настройка быстрых клавишь",
+    "description": "Инструкция к плагину"
+  },
+  "syncSetting": {
+    "message": "Синхронизация",
+    "description": "Инструкция к плагину"
+  },
+  "pluginSyncSetting": {
+    "message": "Синхронизация",
+    "description": "Инструкция к плагину"
+  },
+  "pluginSyncDetailsSetting": {
+    "message": "Синхронизировать настройки между разными браузерами через аккаунт Google",
+    "description": "Детали плагина говорят сами за себя"
+  },
+  "notSyncSetting": {
+    "message": "Эта настройка не синхронизируется",
+    "description": "Инструкция к плагину"
+  },
+  "themeTitle": {
+    "message": "Темы",
+    "description": "Инструкция на странице лейбла"
+  },
+  "themeAdaptation": {
+    "message": "Тема адаптации",
+    "description": "Инструкция на странице лейбла"
+  },
+  "themeAdaptationDescription": {
+    "message": "Согласно цветовому режиму системы, адаптивно отображаются яркие и темные темы, в том числе значки и панель загрузки.",
+    "description": "Инструкция на странице лейбла"
+  },
+  "themeAdaptationOption1": {
+    "message": "auto",
+    "description": "Инструкция на странице лейбла"
+  },
+  "themeAdaptationOption2": {
+    "message": "light",
+    "description": "Инструкция на странице лейбла"
+  },
+  "themeAdaptationOption3": {
+    "message": "dark",
+    "description": "Инструкция на странице лейбла"
+  },
+  "iconTitle": {
+    "message": "Иконка",
+    "description": "Инструкция на странице лейбла"
+  },
+  "iconColorSetting": {
+    "message": "Цвет иконки",
+    "description": "Инструкция на странице лейбла"
+  },
+  "iconDownloadingColorSetting": {
+    "message": "Пользовательский значок загрузки анимации цвета",
+    "description": "Инструкция на странице лейбла"
+  },
+  "downloadPanelTitle": {
+    "message": "Панель загрузки",
+    "description": "Инструкция на странице лейбла"
+  },
+  "pageSize": {
+    "message": "Размер страницы (ширина, высота)",
+    "description": "Инструкция на странице лейбла"
+  },
+  "downloadPanelThemeCustomDescription": {
+    "message": "Пользовательская тема, следите за обновлениями!",
+    "description": "Инструкция на странице лейбла"
+  },
+  "el_colorpicker_confirm": {
+    "message": "Ок",
+    "description": "Инструкция на странице лейбла - Element-UI Цветовой искатель"
+  },
+  "el_colorpicker_clear": {
+    "message": "Очистить",
+    "description": "Инструкция на странице лейбла - Element-UI Цветовой искатель"
+  },
+  "el_popconfirm_confirmButtonText": {
+    "message": "Ок",
+    "description": "Очистить список - Element-UI PopConfirm"
+  },
+  "el_popconfirm_cancelButtonText": {
+    "message": "отменен",
+    "description": "Очистить список - Element-UI PopConfirm"
+  },
+  "starAbout1": {
+    "message": "Если вам нравится плагин перейдите в",
+    "description": "О инструкциях на странице ярлыков"
+  },
+  "pluginShopAbout": {
+    "message": "интернет-магазин Chrome",
+    "description": "О инструкциях на странице ярлыков"
+  },
+  "starAbout2": {
+    "message": "и оцените его.",
+    "description": "О инструкциях на странице ярлыков"
+  }
+}

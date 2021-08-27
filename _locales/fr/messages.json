@@ -1,0 +1,342 @@
+{
+  "extName": {
+    "message": "Download Manager",
+    "description": "Nom de l'extension"
+  },
+  "extDesc": {
+   "message": "Gestion facile des téléchargements de fichiers",
+   "description": "Description de l'extension"
+  },
+  "settingsTitle": {
+    "message": "Réglages",
+    "description": "Paramètres personnels"
+  },
+  "aboutTitle": {
+    "message": "À propos",
+    "description": "Quelques informations sur le plugin"
+  },
+  "second": {
+    "message": "Reste {} secondes",
+    "description": "affichage du temps restant"
+  },
+  "minute": {
+    "message": "Reste {} minutes",
+    "description": "affichage du temps restant"
+  },
+  "hour": {
+    "message": "Reste {} heures",
+    "description": "affichage du temps restant"
+  },
+  "day": {
+    "message": "Reste {} jours",
+    "description": "affichage du temps restant"
+  },
+  "closeTooltip": {
+    "message": "Ne pas afficher les info-bulles",
+    "description": "sur la page de gestion des téléchargements, lorsque la souris est déplacée sur le bouton, la boîte de dialogue de texte cesse de s'afficher"
+  },
+  "newDownload": {
+    "message": "Nouveau téléchargement",
+    "description": "nouveau téléchargement"
+  },
+  "newDownloadPlaceholder": {
+    "message": "Veuillez saisir le lien de téléchargement ! Appuyez sur Entrée pour télécharger le fichier",
+    "description": "Veuillez saisir le lien de téléchargement"
+  },
+  "clearAll": {
+    "message": "Effacer la liste",
+    "description": "Menu déroulant du bouton Effacer"
+  },
+  "deleteAll": {
+    "message": "Supprimer tout du disque",
+    "description": "Menu déroulant du bouton Effacer"
+  },
+  "clearFailed": {
+    "message": "Effacer les téléchargement échoués",
+    "description": "Menu déroulant du bouton Effacer"
+  },
+  "clearAbsent": {
+    "message": "Effacer les fichiers absents",
+    "description": "Menu déroulant du bouton Effacer"
+  },
+  "openDownloadFolder": {
+    "message": "Ouvrir le dossier de téléchargement",
+    "description": "ouvrir le dossier de téléchargement dans l'Explorateur"
+  },
+  "openSettings": {
+    "message": "Paramètres du plugin",
+    "description": "ouvrir les paramètres du plugin dans un nouvel onglet"
+  },
+  "openHome": {
+    "message": "Ouvrir la page de téléchargement",
+    "description": "Ouvrez la page de téléchargement dans un nouvel onglet du navigateur par défaut"
+  },
+  "openFileInFolder": {
+    "message": "Ouvrir le dossier",
+    "description": "ouvrir le fichier dans le dossier"
+  },
+  "openFile": {
+    "message": "Ouvrir le fichier",
+    "description": "ouvrir le fichier"
+  },
+  "pause": {
+    "message": "Pause",
+    "description": "mettre en pause le téléchargement"
+  },
+  "resume": {
+    "message": "Reprendre le téléchargement",
+    "description": "reprendre le téléchargement d'un fichier suspendu"
+  },
+  "delete": {
+    "message": "Supprimer du disque",
+    "description": "supprimer le fichier du disque"
+  },
+  "retry": {
+    "message": "Réessayez",
+    "description": "télécharger à nouveau"
+  },
+  "dangerDescription": {
+    "message": "Le fichier peut endommager votre PC",
+    "description": "Le fichier peut endommager votre ordinateur"
+  },
+  "cancel": {
+    "message": "Annuler",
+    "description": "Annuler le téléchargement de fichiers dangereux"
+  },
+  "reserve": {
+    "message": "Conserver",
+    "description": "Gardez les fichiers dangereux"
+  },
+  "erase": {
+    "message": "Retirer de la liste",
+    "description": "annuler le téléchargement ou effacer le fichier de la liste"
+  },
+  "copied": {
+    "message": "Copié",
+    "description": "copié dans le presse-papier"
+  },
+  "prefixMenus": {
+    "message": "Téléchargez ceci : ",
+    "description": "affichage des menus contextuels de téléchargement"
+  },
+  "link": {
+    "message": "lien",
+    "description": "affichage des menus contextuels de téléchargement"
+  },
+  "image": {
+    "message": "image",
+    "description": "affichage des menus contextuels de téléchargement"
+  },
+  "audio": {
+    "message": "audio",
+    "description": "affichage des menus contextuels de téléchargement"
+  },
+  "video": {
+    "message": "video",
+    "description": "affichage des menus contextuels de téléchargement"
+  },
+  "deleteNotification": {
+    "message": "Supprimer la notification",
+    "description": "Bouton Supprimer la notification"
+  },
+  "downloadCompletedNotification": {
+    "message": "Téléchargement terminé",
+    "description": "Bouton de notification de fin de téléchargement"
+  },
+  "downloadStartedNotification": {
+    "message": "Début du téléchargement",
+    "description": "Notification de téléchargement"
+  },
+  "downloadWarnNotification": {
+    "message": "Avertissement de téléchargement",
+    "description": "Notification de téléchargement"
+  },
+  "openFolderNotification": {
+    "message": "Ouvrir le dossier",
+    "description": "Bouton d'ouverture du dossier de notification de fin de téléchargement"
+  },
+  "downloadSetting": {
+    "message": "Téléchargements",
+    "description": "instructions de configuration du plugin"
+  },
+  "leftClickFileSetting": {
+    "message": "Ouvrir le fichier en cliquant sur le nom du fichier avec le bouton gauche de la souris",
+    "description": "instructions de configuration du plugin"
+  },
+  "rightClickFileSetting": {
+    "message": "Copier dans le presse-papiers lors d'un clic droit sur le nom du fichier",
+    "description": "instructions de configuration du plugin"
+  },
+  "leftClickUrlSetting": {
+    "message": "Ouvrir le lien en cliquant sur le lien de téléchargement",
+    "description": "instructions de configuration du plugin"
+  },
+  "rightClickUrlSetting": {
+    "message": "Copier dans le presse-papiers lors d'un clic droit sur le lien de téléchargement",
+    "description": "instructions de configuration du plugin"
+  },
+  "showTooltipSetting": {
+    "message": "Afficher une info-bulle explicative lorsque la souris passe sur le bouton",
+    "description": "instructions de configuration du plugin"
+  },
+  "enableAnimation": {
+    "message": "Activer l'animation de fichier entrant et sortant",
+    "description": "instructions de configuration du plugin"
+  },
+  "contextMenus": {
+    "message": "Menu contextuel",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadContextMenusSetting": {
+    "message": "Menu de téléchargement",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadContextMenusDescSetting": {
+    "message": "Types de fichiers pris en charge : ",
+    "description": "instructions de configuration du plugin"
+  },
+  "notificationSetting": {
+    "message": "Notification",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadNotificationSetting": {
+    "message": "Notification de téléchargement",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadNotificationSetting1": {
+    "message": "Démarré",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadNotificationSetting2": {
+    "message": "Terminé",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadNotificationSetting3": {
+    "message": "Alerte",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadNotificationReservedTimeSetting": {
+    "message": "Durée d'affichage des notifications de téléchargement (secondes)",
+    "description": "Instructions de configuration du plug-in"
+  },
+  "downloadToneSetting": {
+    "message": "Son de téléchargement",
+    "description": "instructions de configuration du plugin"
+  },
+  "downloadNotificationRemainVisibleSetting": {
+    "message": "Les notifications de téléchargement restent visibles",
+    "description": "Instructions de configuration du plug-in"
+  },
+  "downloadNotificationRemainVisibleDescSetting": {
+    "message": "La notification reste visible à l'écran jusqu'à ce que l'utilisateur active ou désactive la notification.Disponible après Chrome 50",
+    "description": "Instructions de configuration du plug-in"
+  },
+  "shortcutSetting": {
+    "message": "Raccourci",
+    "description": "instructions de configuration du plugin"
+  },
+  "openPopupSetting": {
+    "message": "Activation de l'extension",
+    "description": "instructions de configuration du plugin"
+  },
+  "openPopupDetailsSetting": {
+    "message": "Cliquez ici",
+    "description": "instructions de configuration du plugin"
+  },
+  "chromePluginShortcutDescSetting": {
+    "message": "Paramètres de raccourci",
+    "description": "instructions de configuration du plugin"
+  },
+  "syncSetting": {
+    "message": "Synchronisation",
+    "description": "instructions de configuration du plugin"
+  },
+  "pluginSyncSetting": {
+    "message": "Synchronisation des paramètres du plugin",
+    "description": "instructions de configuration du plugin"
+  },
+  "pluginSyncDetailedSetting": {
+    "message": "Quand vous êtes connéctés à votre compte Google, vous pouvez synchroniser les réglages du plugin entre vos différents navigateurs basés sur le Kernel Google",
+    "description": "instructions détaillées des paramètres du plugin"
+  },
+  "notSyncSetting": {
+    "message": "Ce paramètre ne sera pas synchronisé",
+    "description": "instructions de configuration du plugin"
+  },
+  "themeTitle": {
+    "message": "Thème",
+    "description": "Description de l'onglet Thème"
+  },
+  "themeAdaptation": {
+    "message": "Choix du thème",
+    "description": "Description de l'onglet Thème"
+  },
+  "themeAdaptationDescription": {
+    "message": "Selon le mode couleur du système, affichez de manière adaptative les thèmes clairs et sombres, y compris les icônes et le panneau de téléchargement.",
+    "description": "Description de l'onglet Thème"
+  },
+  "themeAdaptationOption1": {
+    "message": "Automatique",
+    "description": "Description de l'onglet Thème"
+  },
+  "themeAdaptationOption2": {
+    "message": "Clair",
+    "description": "Description de l'onglet Thème"
+  },
+  "themeAdaptationOption3": {
+    "message": "Sombre",
+    "description": "Description de l'onglet Thème"
+  },
+  "iconTitle": {
+    "message": "Icône",
+    "description": "Description de l'onglet Thème"
+  },
+  "iconColorSetting": {
+    "message": "Personnaliser la couleur d'animation de l'icône",
+    "description": "Description de l'onglet Thème"
+  },
+  "iconDownloadingColorSetting": {
+    "message": "Personnaliser la couleur d'animation de l'icône pendant le téléchargement",
+    "description": "Description de l'onglet Thème"
+  },
+  "downloadPanelTitle": {
+    "message": "Panneau de téléchargement",
+    "description": "Description de l'onglet Thème"
+  },
+  "pageSize": {
+    "message": "Taille de la page (largeur, hauteur)",
+    "description": "Description de l'onglet Thème"
+  },
+  "downloadPanelThemeCustomDescription": {
+    "message": "Thème personnalisé, restez à l'écoute!",
+    "description": "Description de l'onglet Thème"
+  },
+  "el_colorpicker_confirm": {
+    "message": "OK",
+    "description": "Description de l'onglet Thème - Element-UI colorPicker"
+  },
+  "el_colorpicker_clear": {
+    "message": "Effacer",
+    "description": "Description de l'onglet Thème - Element-UI colorPicker"
+  },
+  "el_popconfirm_confirmButtonText": {
+    "message": "OK",
+    "description": "Effacer la liste - Element-UI PopConfirm"
+  },
+  "el_popconfirm_cancelButtonText": {
+    "message": "Annuler",
+    "description": "Effacer la liste - Element-UI PopConfirm"
+  },
+  "starAbout1": {
+    "message": "Si vous aimez ce plugin, rendez-vous sur ",
+    "description": "description de l'onglet A propos"
+  },
+  "pluginShopAbout": {
+    "message": "App Store",
+    "description": "description de l'onglet A propos"
+  },
+  "starAbout2": {
+    "message": "et notez-le",
+    "description": "description de l'onglet A propos"
+  }
+}
